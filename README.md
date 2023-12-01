@@ -1,5 +1,8 @@
 # PythonDiagram
 Python script to read data from CSV-files and plotting different types of diagrams.
+
+---------------------
+Run the first code snippet before running each to test.
 ---------------------
 Example of diagrams:
 
